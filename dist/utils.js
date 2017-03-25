@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var _ = require("lodash");
 var revPath = require("rev-path");
 var revHash = require("rev-hash");
